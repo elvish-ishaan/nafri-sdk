@@ -1,6 +1,6 @@
 {
   "name": "nafri-sdk",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Nafri SDK is an NPM package that lets you easily integrate cloud storage features into your app, With simple APIs for file uploads, storage, and sharing, it provides a scalable solution for managing cloud data. Perfect for adding cloud storage capabilities to your application quickly and efficiently.",
   "main": "index.js",
   "scripts": {
