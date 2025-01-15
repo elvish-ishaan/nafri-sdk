@@ -80,4 +80,4 @@ class Nafri {
     }
   }
   
-  
+module.exports = Nafri;
